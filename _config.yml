@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amir's Homepage"
+title                    : "Behzad's Homepage"
 title_separator          : "-"
-name                     : &name "AmirHossein Sojoodi"
-description              : &description "Research Assistant at Queen's University"
-url                      : https://amirsojoodi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Behzad Rahmani"
+description              : &description "Architect"
+url                      : https://behzadrahmani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amirsojoodi/amirsojoodi.github.io"
+repository               : "behzadrahmani/behzadrahmani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 140
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "AmirHossein Sojoodi"
+  name             : "Behzad Rahmani"
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Engineering at Queen's University"
+  bio              : "Architect"
   location         : "Kingston, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ"
-  email            : "amir.sojoodi@gmail.com"
+  googlescholar    :
+  email            : "rbehutm@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amirsojoodi"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "amirsojoodi"
+  linkedin         : "behzad-rahmani-architect"
   orcid            : 
   pinterest        :
   soundcloud       :

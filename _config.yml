@@ -4,7 +4,7 @@ title: Behzad Rahmani
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio of Behzad Rahmani 
 permalink: ":title/"
-baseurl: "https://behzadrahmani.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "https://behzadrahmani.github.io" # the subpath of your site, e.g. /blog
 domain: "behzadrahmani.github.io" # the base hostname for your site, e.g. example.com
 url: "https://behzadrahmani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

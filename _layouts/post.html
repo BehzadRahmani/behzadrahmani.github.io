@@ -10,14 +10,22 @@ layout: default
 
     <div class="entry_content">
 
-      {% if page.comic %}
+      <div class="entry_content">
+        {{page.content | markdownify}}
+      </div>
+      
+      <!-- {% if page.comic %}
         {% include carousel.html images=page.comic dir="/assets/img/comics/" height="100" unit="%" %}
+      {% endif %} -->
+
+      {% if page.project %}
+        {% include carousel.html images=page.project dir="/assets/img/projects/" height="100" unit="%" %}
       {% endif %}
 
       {% if page.memory %}
         <img src="/assets/img/Memories/{{ page.memory }}" alt="{{page.description}}"/>
       {% endif %}
-
+          
     </div>
     
   </article> <!-- End Section Post -->

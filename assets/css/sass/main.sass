@@ -8,16 +8,8 @@
 *, *::after, *::before
   box-sizing: border-box
 
-@font-face
-  font-family: Komikasl
-  src: url(../fonts/KOMIKASL.ttf)
-
-@font-face
-  font-family: BoldlyMissy
-  src: url(../fonts/BoldlyMissy.otf)
-
 body
-  font-family: Komikasl, sans-serif
+  font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif
   -webkit-font-smoothing: antialiased
   background-color: $dark
   display: flex
@@ -34,7 +26,7 @@ p
   font-weight: 400
 
 blockquote
-  font-size: 1.2rem
+  font-size: 1rem
   font-style: italic
   border-left: 3px solid $highlight_lighten
   padding-left: 2rem
@@ -42,7 +34,7 @@ blockquote
   color: $gray
   p
     color: $gray
-    font-size: 1.2rem
+    font-size: 1rem
 
 ::-webkit-input-placeholder
   color: $white

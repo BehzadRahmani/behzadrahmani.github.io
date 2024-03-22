@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Residential"
+img: Tarh-7/Plan.png
+date: 2018-01-01 12:00:00 +0000
+description: Description
+tag: [Project]
+project:
+    - Tarh-7/Plan.png
+    - Tarh-7/Model.png
+    - Tarh-7/Elevation.png
+---
+
+- **Location:** shiraz, Fars, Iran
+- **Start/End Year:** 2018/2019
+- **Responsibility:** Senior Architect
+
+### Project Overview
+
+Designing a cultural building and Persian garden inspired by traditional Iranian architecture involves thorough research and conceptual development. Key elements include incorporating traditional architectural features like iwan (vaulted hall or porch) entrances into the building design paying attention to proportions, symmetry, and rhythm in the arrangement of spaces. Selecting appropriate materials such as brick and glazed tiles, and integrating a Persian garden with water features and geometric patterns. Incorporate sustainable design principles, such as passive solar design, rainwater harvesting, and drought-resistant landscaping, to minimize environmental impact and promote energy efficiency and cultural significance are also essential considerations to create a harmonious and immersive experience that honors Iran's rich heritage.

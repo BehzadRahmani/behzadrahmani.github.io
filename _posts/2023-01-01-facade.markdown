@@ -10,7 +10,7 @@ project:
     - Facade-Design/2.jpg
 ---
 
-- **Location:** shiraz, Fars,Iran
+- **Location:** shiraz, Fars, Iran
 - **Start/End Year:** 2023
 - **Responsibility:** Facade Architect
 

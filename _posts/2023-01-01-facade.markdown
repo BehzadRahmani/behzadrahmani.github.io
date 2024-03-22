@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Facade Design"
+img: Facade-Design/1.jpg
+date: 2023-01-01 12:00:00 +0000
+description: Description
+tag: [Project]
+project:
+    - Facade-Design/1.jpg
+    - Facade-Design/2.jpg
+---
+
+- **Location:** shiraz, Fars,Iran
+- **Start/End Year:** 2023
+- **Responsibility:** Facade Architect
+
+### Project Overview
+
+The prominent automobile showcase owner has commissioned a modern facade for his upcoming residential apartment, intending to embody the transparency and resplendent success associated with his career and opulent lifestyle. The design concept integrates elements of transparency and luminosity to reflect the owner's achievements and luxurious living standards.
+
+Utilizing expansive glass panels and reflective surfaces, as well as modern and classy lighting features, the facade captures and magnifies natural light, creating an ambiance of openness and refinement within the living space. Integrated LED lighting strips are discreetly embedded within the architectural elements of the facade, enhancing the aesthetic appeal while symbolizing the owner's commitment to transparency and integrity in both business and personal endeavors.
+
+Technical analysis and feasibility studies Conducted to assess the structural integrity, performance, and constructability of the facade design. As a façade architect I work closely with engineers, consultants, and contractors to develop detailed drawings, specifications, and construction details for the facade system. Select appropriate materials for the facade that balance aesthetic, functional, and performance requirements was a major concern. Consider factors such as durability, maintenance, cost, and compatibility with other building components. Ensure that the facade design complies with local building codes, zoning regulations, and planning guidelines. Obtain necessary permits and approvals from regulatory authorities before proceeding with construction.

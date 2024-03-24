@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Residential"
+title: "Arian Residential"
 img: Residential-4/Cover.png
 date: 2019-01-01 12:00:00 +0000
 description: Description

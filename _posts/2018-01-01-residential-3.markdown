@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Residential"
+title: "Golestan Residential"
 img: Residential-3/cover.png
 date: 2018-01-01 12:00:00 +0000
 description: Description

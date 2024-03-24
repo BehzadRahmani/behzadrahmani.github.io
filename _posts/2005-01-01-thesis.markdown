@@ -2,7 +2,7 @@
 layout: post
 title: "Aviation Theme Park"
 img: Thesis/Cover.png
-date: 2015-01-10 12:00:00 +0000
+date: 2005-01-01 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
@@ -17,7 +17,7 @@ project:
 ---
 
 - **Location:** shiraz, Fars, Iran
-- **Start/End Year:** 2016
+- **Start/End Year:** 2005
 - **Responsibility:** Senior Architect and project manager
 
 ### Project Overview

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Residential Bushehr"
+title: "Seaside Residential, Bushehr"
 img: Residential-Bushehr/cover.jpg
-date: 2023-01-01 12:00:00 +0000
+date: 2021-01-01 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
@@ -22,7 +22,7 @@ project:
 ---
 
 - **Location:** Bushehr, Iran
-- **Start/End Year:** 2023
+- **Start/End Year:** 2021
 - **Responsibility:** Senior Architect
 
 ### Project Overview

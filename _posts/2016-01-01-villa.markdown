@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "Aviation Theme Park"
-img: Thesis/Cover.png
-date: 2015-01-10 12:00:00 +0000
+title: "Laar Villa"
+img: Villa/cover.jpg
+date: 2016-01-10 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Thesis/1.png
-    - Thesis/2.png
-    - Thesis/3.png
-    - Thesis/4.png
-    - Thesis/5.png
-    - Thesis/6.png
-    - Thesis/7.png
-    - Thesis/8.jpg
+    - Villa/1.jpg
+    - Villa/2.jpg
+    - Villa/3.jpg
+    - Villa/4.jpg
+    - Villa/5.jpg
+    - Villa/6.jpg
+    - Villa/7.jpg
+    - Villa/8.jpg
+    - Villa/9.jpg
+    - Villa/10.png
+    - Villa/11.png
 ---
 
 - **Location:** shiraz, Fars, Iran

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facade Design"
-img: Facade-Design/1.jpg
+img: Facade-Design/cover.jpg
 date: 2023-01-01 12:00:00 +0000
 description: Description
 tag: [Project]

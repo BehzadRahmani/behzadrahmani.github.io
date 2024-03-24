@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "Residential"
-img: Residential-3/cover.jpg
+img: Residential-3/cover.png
 date: 2018-01-01 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Residential-3/cover.jpg
-    - Residential-3/1.jpg
-    - Residential-3/2.jpg
-    - Residential-3/3.jpg
-    - Residential-3/4.jpg
-    - Residential-3/5.jpg
-    - Residential-3/6.jpg
-    - Residential-3/7.jpg
-    - Residential-3/8.jpg
-    - Residential-3/9.jpg
+    - Residential-3/cover.png
+    - Residential-3/1.png
+    - Residential-3/2.png
+    - Residential-3/3.png
+    - Residential-3/4.png
+    - Residential-3/5.png
+    - Residential-3/6.png
+    - Residential-3/7.png
+    - Residential-3/8.png
+    - Residential-3/9.png
     - Residential-3/f1.jpg
     - Residential-3/f2.jpg
     - Residential-3/f3.jpg

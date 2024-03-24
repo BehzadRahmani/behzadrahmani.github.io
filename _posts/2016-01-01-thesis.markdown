@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Aviation Theme Park"
+img: Thesis/Cover.png
+date: 2015-01-10 12:00:00 +0000
+description: Description
+tag: [Project]
+project:
+    - Thesis/1.png
+    - Thesis/2.png
+    - Thesis/3.png
+    - Thesis/4.png
+---
+
+- **Location:** shiraz, Fars, Iran
+- **Start/End Year:** 2016
+- **Responsibility:** Senior Architect and project manager
+
+### Project Overview
+
+I was responsible for designing an aviation theme park located in the North West Shiraz, away from the city's hustle and bustle and towering structures. The park aimed to offer visitors a unique experience that combined entertainment, recreation, and education. Drawing inspiration from the graceful and lightweight nature of bird feathers, I envisioned the park's architecture to embody the fluidity and elegance of flight. This design concept infused the park with a sense of beauty and wonder while symbolizing the essence of aviation.
+
+Throughout the park, I strategically integrated interactive exhibits, engaging displays, and hands-on activities to celebrate the history and growth of aviation. Visitors could immerse themselves in the world of flight, learning about its evolution and the contributions of pioneering aviators. The layout of the park was meticulously planned to cater to various recreational activities, ensuring there was something for everyone to enjoy. From thrilling rides to serene green spaces, the park offered a diverse range of experiences to suit different preferences.
+
+One of the key goals was to provide an educational experience that inspired curiosity and appreciation for aviation. By combining educational elements into the park's fabric, visitors of all ages could learn about the principles of flight and explore iconic aircraft.

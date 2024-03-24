@@ -9,6 +9,10 @@ project:
     - Residential-4/1.png
     - Residential-4/2.png
     - Residential-4/3.png
+    - Residential-4/4.png
+    - Residential-4/5.png
+    - Residential-4/6.png
+    - Residential-4/7.png
 ---
 
 - **Location:** shiraz, Fars, Iran

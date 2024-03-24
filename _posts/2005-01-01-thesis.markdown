@@ -16,7 +16,7 @@ project:
     - Thesis/8.jpg
 ---
 
-- **Location:** shiraz, Fars, Iran
+- **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2005
 - **Responsibility:** Senior Architect and project manager
 

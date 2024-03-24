@@ -22,7 +22,7 @@ project:
     - Construction/Construction-14.jpg
 ---
 
-- **Location:** shiraz, Fars, Iran
+- **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2015/2016
 - **Responsibility:** Senior Architect and project manager
 

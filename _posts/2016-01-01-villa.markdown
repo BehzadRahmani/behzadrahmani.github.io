@@ -19,7 +19,7 @@ project:
     - Villa/11.png
 ---
 
-- **Location:** shiraz, Fars, Iran
+- **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2016
 - **Responsibility:** Senior Architect and project manager
 

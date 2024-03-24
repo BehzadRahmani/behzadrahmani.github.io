@@ -23,7 +23,7 @@ project:
     - Residential-3/f5.jpg
 ---
 
-- **Location:** shiraz, Fars, Iran
+- **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2018/2019
 - **Responsibility:** Senior Architect
 

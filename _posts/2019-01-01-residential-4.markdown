@@ -15,7 +15,7 @@ project:
     - Residential-4/7.png
 ---
 
-- **Location:** shiraz, Fars, Iran
+- **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2019
 - **Responsibility:** Senior Architect and Project Manager
 

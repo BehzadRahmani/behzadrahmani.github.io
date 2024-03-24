@@ -10,6 +10,10 @@ project:
     - Thesis/2.png
     - Thesis/3.png
     - Thesis/4.png
+    - Thesis/5.png
+    - Thesis/6.png
+    - Thesis/7.png
+    - Thesis/8.jpg
 ---
 
 - **Location:** shiraz, Fars, Iran

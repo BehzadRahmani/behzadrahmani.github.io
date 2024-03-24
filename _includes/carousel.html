@@ -23,7 +23,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in include.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item | prepend : include.dir }}');"></li>
+              <li class="carousel__slide" style="background-image: url('{{ item | prepend : include.dir }}');" onclick="window.open('{{ item | prepend : include.dir }}', '_blank');"></li>
             {% endfor %}
           </ul>
         </div>

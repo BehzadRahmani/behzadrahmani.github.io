@@ -23,7 +23,11 @@
         <div class="carousel__track">
           <ul>
             {% for item in include.images %}
-              <li class="carousel__slide" style="background-image: url('{{ item | prepend : include.dir }}');" onclick="window.open('{{ item | prepend : include.dir }}', '_blank');"></li>
+              <li class="carousel__slide" style="background-image: url('{{ item | prepend : include.dir }}');">
+                <!-- <a class="left-overlay" href="#">&nbsp;</a> -->
+                <a class="mid-overlay" href="{{ item | prepend : include.dir }}" target="_blank">&nbsp;</a> <!-- This is the link to the image -->
+                <!-- <a class="right-overlay" href="#">&nbsp;</a> -->
+              </li>
             {% endfor %}
           </ul>
         </div>
@@ -35,7 +39,36 @@
     </div>
 </div>
 
+
 <style>
+.left-overlay,
+.right-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 10%;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.mid-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.left-overlay {
+  left: 0;
+}
+
+.right-overlay {
+  right: 0;
+}
 .carousel__holder {width: 100%; position: relative; padding-bottom: {{ include.height }}{{ include.unit }}; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;

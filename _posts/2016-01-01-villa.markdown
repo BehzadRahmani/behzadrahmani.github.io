@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Laar Villa"
-img: Villa/cover.jpg
+img: Villa/cover.png
 date: 2016-01-10 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Villa/1.jpg
+    - Villa/1.png
     - Villa/2.jpg
-    - Villa/3.jpg
-    - Villa/4.jpg
+    - Villa/3.png
+    - Villa/4.png
     - Villa/5.jpg
     - Villa/6.jpg
     - Villa/7.jpg

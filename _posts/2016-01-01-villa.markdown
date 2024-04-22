@@ -6,10 +6,10 @@ date: 2016-01-10 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Villa/1.png
     - Villa/2.jpg
-    - Villa/3.png
     - Villa/4.png
+    - Villa/3.png
+    - Villa/1.png
     - Villa/5.jpg
     - Villa/6.jpg
     - Villa/7.jpg
@@ -19,17 +19,28 @@ project:
     - Villa/11.png
 ---
 
-- **Location:** Shiraz, Fars, Iran
+- **Project Type:** Residential Building
+- **Location:** Sepidan, Fars, Iran
 - **Start/End Year:** 2016
+- **Size:** 640 sqm
+- **Client:** Private Individual
 - **Responsibility:** Senior Architect and project manager
 
 ### Project Overview
 
 The double-story villa in the chilly countryside of Sepidan, Fars, Designed to accommodate the vocational needs of a large family, the villa's layout reflects a thoughtful approach to space utilization and functionality. The interior design embraces simplicity, with an emphasis on clean, uncluttered spaces and natural materials. Large windows throughout the villa allow ample natural light to flood the interiors, creating a warm and inviting atmosphere.
 
-The heart of the home is the expansive living area, which serves as a central gathering space for family members to come together and unwind. Adjoining the living area is a stylish dining room, perfect for hosting formal dinners and intimate gatherings. The villa features a total of 8 bedrooms, each thoughtfully designed to provide comfort and privacy for its occupants. The bedrooms are generously sized and feature minimalist decor, allowing residents to personalize their spaces to suit their individual tastes.
+The heart of the home is the expansive living area, which serves as a central gathering space for family members to come together and unwind. Adjoining the living area is a stylish dining room, perfect for hosting formal dinners and intimate gatherings. The villa features a t
+total of 8 bedrooms, each thoughtfully designed to provide comfort and privacy for its occupants. The bedrooms are generously sized and feature minimalist decor, allowing residents to personalize their spaces to suit their individual tastes.
 
 To support the vocational needs of the family, the villa includes dedicated workspaces and study areas, providing a quiet and productive environment for remote work or academic pursuits. In order to reduce construction costs without compromising on quality, the design incorporates cost-effective materials and construction methods. Sustainable practices are also integrated into the design, including energy-efficient lighting and heating systems to minimize environmental impact.
 
 In addition to its already impressive features, the villa boasts an indoor swimming pool and sauna. The indoor swimming pool is a point of relaxation and recreation, offering residents a private access to unwind and stay active regardless of the weather outside. Adjacent to the swimming pool is a luxurious sauna, where residents can indulge in the ultimate spa experience without ever leaving the comfort of home.
 
+### My Contributions
+
+- Studying standards and site analysis
+- Gathering and collecting design requirements
+- Analyzing concepts and data
+- Develop concept and design
+- Designing 2D building drawings

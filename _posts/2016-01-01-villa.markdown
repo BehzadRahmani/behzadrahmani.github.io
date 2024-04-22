@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Laar Villa"
-img: Villa/cover.jpg
+img: Villa/cover.png
 date: 2016-01-10 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Villa/1.jpg
+    - Villa/1.png
     - Villa/2.jpg
-    - Villa/3.jpg
-    - Villa/4.jpg
+    - Villa/3.png
+    - Villa/4.png
     - Villa/5.jpg
     - Villa/6.jpg
     - Villa/7.jpg
@@ -25,8 +25,11 @@ project:
 
 ### Project Overview
 
-I was responsible for designing an aviation theme park located in the North West Shiraz, away from the city's hustle and bustle and towering structures. The park aimed to offer visitors a unique experience that combined entertainment, recreation, and education. Drawing inspiration from the graceful and lightweight nature of bird feathers, I envisioned the park's architecture to embody the fluidity and elegance of flight. This design concept infused the park with a sense of beauty and wonder while symbolizing the essence of aviation.
+The double-story villa in the chilly countryside of Sepidan, Fars, Designed to accommodate the vocational needs of a large family, the villa's layout reflects a thoughtful approach to space utilization and functionality. The interior design embraces simplicity, with an emphasis on clean, uncluttered spaces and natural materials. Large windows throughout the villa allow ample natural light to flood the interiors, creating a warm and inviting atmosphere.
 
-Throughout the park, I strategically integrated interactive exhibits, engaging displays, and hands-on activities to celebrate the history and growth of aviation. Visitors could immerse themselves in the world of flight, learning about its evolution and the contributions of pioneering aviators. The layout of the park was meticulously planned to cater to various recreational activities, ensuring there was something for everyone to enjoy. From thrilling rides to serene green spaces, the park offered a diverse range of experiences to suit different preferences.
+The heart of the home is the expansive living area, which serves as a central gathering space for family members to come together and unwind. Adjoining the living area is a stylish dining room, perfect for hosting formal dinners and intimate gatherings. The villa features a total of 8 bedrooms, each thoughtfully designed to provide comfort and privacy for its occupants. The bedrooms are generously sized and feature minimalist decor, allowing residents to personalize their spaces to suit their individual tastes.
 
-One of the key goals was to provide an educational experience that inspired curiosity and appreciation for aviation. By combining educational elements into the park's fabric, visitors of all ages could learn about the principles of flight and explore iconic aircraft.
+To support the vocational needs of the family, the villa includes dedicated workspaces and study areas, providing a quiet and productive environment for remote work or academic pursuits. In order to reduce construction costs without compromising on quality, the design incorporates cost-effective materials and construction methods. Sustainable practices are also integrated into the design, including energy-efficient lighting and heating systems to minimize environmental impact.
+
+In addition to its already impressive features, the villa boasts an indoor swimming pool and sauna. The indoor swimming pool is a point of relaxation and recreation, offering residents a private access to unwind and stay active regardless of the weather outside. Adjacent to the swimming pool is a luxurious sauna, where residents can indulge in the ultimate spa experience without ever leaving the comfort of home.
+

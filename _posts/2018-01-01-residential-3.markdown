@@ -40,7 +40,7 @@ The initial architectural drawings were created using AutoCAD software, allowing
 
 ### My contribution
 
-- Studying standards and site analysis 
+- Studying standards and site analysis
 - Gathering and collecting design requirements
 - Analyzing concepts and data
 - Develop concept and design

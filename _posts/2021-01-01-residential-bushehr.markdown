@@ -21,10 +21,10 @@ project:
     - Residential-Bushehr/model2.png
 ---
 
-- **Client:** Kianpars Organization
 - **Project Type:** Community Center
 - **Location:** Bushehr, Iran
 - **Start/End Year:** 2023
+- **Client:** Kianpars Organization
 - **Responsibility:** Senior Architect
 
 ### Project Overview

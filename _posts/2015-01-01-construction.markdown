@@ -22,9 +22,24 @@ project:
     - Construction/Construction-14.jpg
 ---
 
+- **Project Type:** Residential Building
 - **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2015/2016
+- **Size:** 480 sqm
+- **Client:** Private Individual
 - **Responsibility:** Senior Architect and project manager
+
+### My Contributions
+
+- Supervising Workers
+- Safety Management
+- Quality Control
+- Coordination and Communication
+- Budget and Resource Management
+- Problem Solving
+- Documentation and Reporting
+- Training and Development
+- Site Security
 
 ### Project Overview
 

@@ -33,7 +33,7 @@ Located along the attractive shores of the Persian Gulf, this residential buildi
 
 One of the key features of the design is the incorporation of a central courtyard, which serves as a critical point for the building's layout. This courtyard not only enhances the aesthetic appeal of the structure but also facilitates natural ventilation and cooling. Large-scale openings strategically positioned throughout the building further promote the free flow of air, allowing for comfortable living conditions even during the hottest months. By use of passive cooling techniques and maximizing natural ventilation, the building minimizes its reliance on mechanical cooling systems, thereby reducing energy consumption and environmental impact. This holistic approach to design not only enhances the comfort and well-being of the building's occupants but also contributes to the overall sustainability of the built environment.
 
-### My contribution
+### My Contributions
 
 - Studying standards and site analysis
 - Gathering and collecting design requirements

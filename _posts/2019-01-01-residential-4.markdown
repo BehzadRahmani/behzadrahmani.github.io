@@ -18,9 +18,9 @@ project:
 - **Project Type:**  Residential Building
 - **Location:** Shiraz, Fars, Iran
 - **Start/End Year:** 2019
+- **Size:** 5140 sqm
 - **Client:** Zagros Housing Group
 - **Responsibility:** Senior Architect and Project Manager
-- **Size:** 5140 sqm
 
 ### Project Overview
 
@@ -28,7 +28,7 @@ In the densely populated southern district of Shiraz, I undertook the challenge 
 
 Each apartment within the building was designed to be relatively compact, reflecting the economic criteria of the area. Despite their smaller size, great attention was paid to ensuring functionality and comfort for the residents. Specifically, each apartment was configured to include two bedrooms, catering to the needs of small families or individuals requiring extra space for living or working. Additionally, thoughtful design elements such as open-plan living areas, efficient storage solutions, and natural light optimization were incorporated to enhance the overall livability of the units.
 
-### My contribution
+### My Contributions
 
 - Studying standards and site analysis
 - Gathering and collecting design requirements

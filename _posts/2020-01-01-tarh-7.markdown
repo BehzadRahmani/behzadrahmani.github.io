@@ -6,9 +6,16 @@ date: 2020-01-01 12:00:00 +0000
 description: Description
 tag: [Project]
 project:
-    - Tarh-7/Plan.png
-    - Tarh-7/Model.png
-    - Tarh-7/Elevation.png
+    - Tarh-7/1.png
+    - Tarh-7/2.png
+    - Tarh-7/3.png
+    - Tarh-7/4.png
+    - Tarh-7/5.png
+    - Tarh-7/6.png
+    - Tarh-7/7.png
+    - Tarh-7/8.png
+    - Tarh-7/9.png
+    - Tarh-7/10.png
 ---
 
 - **Project Type:** Landscape and museum
